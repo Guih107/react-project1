@@ -1,0 +1,23 @@
+.headerContainner {
+  align-items: center;
+  background-color: blue;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 3px;
+}
+
+.buttonHeader {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  color: blue;
+  cursor: pointer;
+  font-size: 16px;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  width: 100px;
+
+}
